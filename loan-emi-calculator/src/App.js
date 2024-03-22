@@ -138,7 +138,7 @@ function App() {
       </div>
     )}
     <div className="watermark">
-        <p>Shesank</p>
+        <p>Geepthika</p>
       </div>    
   </div>
   );

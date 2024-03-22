@@ -66,7 +66,7 @@ const FileHandlingApp = () => {
         </div>
       )}
       <div className="watermark">
-        <p>Shesank</p>
+        <p>Geepthika</p>
       </div>
     </div>
   );
